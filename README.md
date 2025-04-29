@@ -4,9 +4,6 @@
 
 # 👋 Hi, I'm Aldrin (agnostic-ap)
 
-<img src="./assets/profile-views.svg" alt="Profile Views" />&nbsp;
-<img src="./assets/followers.svg" alt="GitHub Followers" />
-
 I'm a full-stack developer from China 🇨🇳 with extensive experience in building web applications, cross-platform solutions, automation tools, and mobile apps. I specialize in frontend frameworks like Vue and React, mobile development with Kotlin and Uniapp, and backend integration using Laravel, Spring Boot, and cloud services.
 
 ---
@@ -66,13 +63,6 @@ I'm a full-stack developer from China 🇨🇳 with extensive experience in buil
 - GitHub: [@agnostic-ap](https://github.com/agnostic-ap)
 - Email: <dc23byte@gmail.com>
 - Portfolio / Blog: [https://gt2kk.cn](https://gt2kk.cn)
-
----
-
-## 📊 GitHub Stats
-
-<img src="./assets/github-stats.svg" alt="GitHub Stats" width="100%" />
-<img src="./assets/top-langs.svg" alt="Top Languages" width="100%" />
 
 ---
 

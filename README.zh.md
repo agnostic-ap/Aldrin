@@ -60,11 +60,4 @@
 
 ---
 
-## 📊 GitHub 数据展示
-
-<img src="./assets/github-stats.svg" alt="GitHub Stats" width="100%" />
-<img src="./assets/top-langs.svg" alt="Top Languages" width="100%" />
-
----
-
 感谢你的访问，欢迎交流合作 🤝
