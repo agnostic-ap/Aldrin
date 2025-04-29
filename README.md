@@ -1,12 +1,13 @@
 <p align="right">
-  🌐 Language: [🇬🇧 English](./README.md) | [🇨🇳 中文](./README.zh.md)
+  🌐 Language: <a href="./README.md">🇬🇧 English</a> | <a href="./README.zh.md">🇨🇳 中文</a>
 </p>
 
 # 👋 Hi, I'm Aldrin (agnostic-ap)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=agnostic-ap&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/agnostic-ap?style=social)
-![Languages](https://img.shields.io/github/languages/top/agnostic-ap/XHOMES?style=flat-square)
+![Top Language](https://img.shields.io/github/languages/top/agnostic-ap/XHOMES?style=flat-square)
+
 
 I'm a full-stack developer from China 🇨🇳 with extensive experience in building web applications, cross-platform solutions, automation tools, and mobile apps. I specialize in frontend frameworks like Vue and React, mobile development with Kotlin and Uniapp, and backend integration using Laravel, Spring Boot, and cloud services.
 
