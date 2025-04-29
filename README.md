@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Aldrin (agnostic-ap)
 
-<img src="./assets/profile-views.svg" alt="Profile Views" />
+<img src="./assets/profile-views.svg" alt="Profile Views" />&nbsp;
 <img src="./assets/followers.svg" alt="GitHub Followers" />
 
 I'm a full-stack developer from China 🇨🇳 with extensive experience in building web applications, cross-platform solutions, automation tools, and mobile apps. I specialize in frontend frameworks like Vue and React, mobile development with Kotlin and Uniapp, and backend integration using Laravel, Spring Boot, and cloud services.

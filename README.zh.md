@@ -1,5 +1,5 @@
 <p align="right">
-  🌐 语言切换：[🇬🇧 English](./README.md) | [🇨🇳 中文](./README.zh.md)
+  🌐 Language: <a href="./README.md">🇬🇧 English</a> | <a href="./README.zh.md">🇨🇳 中文</a>
 </p>
 
 # 👋 你好，我是 Aldrin（agnostic-ap）
