@@ -62,8 +62,8 @@
 
 ## 📊 GitHub 数据展示
 
-![agnostic-ap's GitHub stats](https://github-readme-stats.vercel.app/api?username=agnostic-ap&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agnostic-ap&layout=compact&hide=html,css&langs_count=6)
+<img src="./assets/github-stats.svg" alt="GitHub Stats" width="100%" />
+<img src="./assets/top-langs.svg" alt="Top Languages" width="100%" />
 
 ---
 

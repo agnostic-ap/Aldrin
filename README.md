@@ -4,10 +4,8 @@
 
 # 👋 Hi, I'm Aldrin (agnostic-ap)
 
-![Profile Views](https://komarev.com/ghpvc/?username=agnostic-ap&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/agnostic-ap?style=social)
-![Top Language](https://img.shields.io/github/languages/top/agnostic-ap/XHOMES?style=flat-square)
-
+<img src="./assets/profile-views.svg" alt="Profile Views" />
+<img src="./assets/followers.svg" alt="GitHub Followers" />
 
 I'm a full-stack developer from China 🇨🇳 with extensive experience in building web applications, cross-platform solutions, automation tools, and mobile apps. I specialize in frontend frameworks like Vue and React, mobile development with Kotlin and Uniapp, and backend integration using Laravel, Spring Boot, and cloud services.
 
@@ -73,8 +71,8 @@ I'm a full-stack developer from China 🇨🇳 with extensive experience in buil
 
 ## 📊 GitHub Stats
 
-![agnostic-ap's GitHub stats](https://github-readme-stats.vercel.app/api?username=agnostic-ap&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agnostic-ap&layout=compact&hide=html,css&langs_count=6)
+<img src="./assets/github-stats.svg" alt="GitHub Stats" width="100%" />
+<img src="./assets/top-langs.svg" alt="Top Languages" width="100%" />
 
 ---
 
